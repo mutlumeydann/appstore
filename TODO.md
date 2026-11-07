@@ -1,6 +1,6 @@
 # Durum (7 Kasım 2026)
-Waiting for Review: Nefes (6831660925), Tabela (6831715080), Piti Piti (6831773636), Tesbih (6831801248), Refleks (6831966532).
-Mağaza yüklemeleri artık bu repodan: Actions → app_id + folder (tabela / piti / tesbih / refleks).
+Waiting for Review: Nefes (6831660925), Tabela (6831715080), Piti Piti (6831773636), Tesbih (6831801248), Refleks (6831966532), Bomba (6831981994).
+Mağaza yüklemeleri artık bu repodan: Actions → app_id + folder (tabela / piti / tesbih / refleks / bomba).
 Not: mutlumeydan-byte/tabela reposuna push şu an kapalı (GitHub bağlantısı mutlumeydann hesabında).
 
 # Yapılacaklar (Tabela + Nefes + Piti Piti)
@@ -36,7 +36,7 @@ Son güncelleme: 6 Kasım 2026
 
 ## Refleks 1.0
 - [ ] `eas build --auto-submit` (kullanıcı) → App Store kaydı.
-- [ ] Actions → metin + görsel (folder = `refleks`), formlar, Submit.
+- [x] Actions → metin + görsel (folder = `refleks`), formlar, Submit.
 - Görseller/sesler Higgsfield ile üretildi (ikon 2, kafe fotoğrafı, mor kumaş, 6 ses efekti).
 
 ## Fikir havuzu
@@ -52,3 +52,9 @@ npx.cmd eas-cli build -p ios --profile production
 npx.cmd eas-cli submit -p ios --latest
 ```
 Metin / görsel değişince: GitHub → Actions → "Upload App Store texts" / "Upload App Store screenshots" → app_id gir → Run.
+
+## Bomba 1.0
+- [x] Higgsfield görseller + ikon, sesler, animasyonlu bomba/patlama
+- [x] 14 dil metin + 350 ekran görüntüsü (folder = `bomba`), gizlilik: bomba-app-benibidinle.vercel.app
+- [x] Formlar (Oyunlar/Aile+Kelime, $0.99, 4+, veri toplanmıyor), Submit → Waiting for Review
+- Not: sürüm sayfasında Game Center kutusu işaretli kalırsa Add for Review engellenir.
