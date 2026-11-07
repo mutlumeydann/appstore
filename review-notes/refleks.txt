@@ -1,0 +1,23 @@
+App: Refleks: Fastest Finger
+
+1. SCREEN RECORDING
+A screen recording captured on a physical iPhone running the latest iOS is attached to this submission (App Review Information > Attachment). It starts from launching the app on the Home Screen and shows the typical user flow. The app has no account registration/login, no user-generated content and no paid content inside the app.
+
+2. PURPOSE AND TARGET AUDIENCE
+Refleks is a local multiplayer reaction-time game for 2 to 4 people sharing one phone, for example at a café table, a family dinner or on a trip. It lets friends find out who has the fastest reflexes in a fun, fair way, showing each player's reaction time in milliseconds. Target audience: friends and families, all ages (rated 4+).
+
+3. HOW TO ACCESS THE MAIN FEATURES
+- Launch the app and choose 2, 3 or 4 players and the target score (3, 5 or 10), then tap Start.
+- Each player holds a finger on their own colored button (the phone lies flat between players; each side's text faces its player).
+- Three red lights come on one by one, then after a random pause the light turns GREEN. The first player to lift their finger after green wins the point and their reaction time is shown. Lifting before green is a foul.
+- The first player to reach the target score sees the champion screen; tap to play again.
+- To test alone, hold one finger in each of two player zones and lift one when the light turns green.
+
+4. EXTERNAL SERVICES
+None. The app works fully offline. It makes no network requests and contains no third-party SDKs (no analytics, advertising, authentication, payment, cloud or AI services). There is no account, no sign-in and no in-app purchase; the app is a one-time paid download.
+
+5. REGIONAL DIFFERENCES
+None. The app functions identically in all regions. The interface is localized into 14 languages and follows the device language automatically (it can also be changed inside the app).
+
+6. REGULATED INDUSTRY / THIRD-PARTY MATERIAL
+Not applicable. The app does not operate in a regulated industry and contains no protected third-party material. All graphics, icons and sounds were created specifically for this app.

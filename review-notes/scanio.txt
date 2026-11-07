@@ -1,0 +1,24 @@
+App: Scanio: PDF Document Scanner
+
+1. SCREEN RECORDING
+A screen recording captured on a physical iPhone running the latest iOS is attached to this submission (App Review Information > Attachment). It starts from launching the app on the Home Screen and shows the typical user flow. The app has no account registration/login, no user-generated content and no paid content inside the app.
+
+2. PURPOSE AND TARGET AUDIENCE
+Scanio is a document scanner that turns paper (receipts, invoices, contracts, notes, forms) into clean multi-page PDFs that can be shared or printed. It solves the everyday need to digitize and send paper documents without a physical scanner, and it keeps everything private on the device with no account or subscription. Target audience: students, professionals and households, all ages (rated 4+).
+
+3. HOW TO ACCESS THE MAIN FEATURES
+- Launch the app. The Documents library opens; no account is needed.
+- Tap Scan. The iOS document camera (Apple VisionKit) opens and detects page edges automatically; capture one or more pages and tap Save. Camera permission is requested on first use.
+- The new document opens. Tap Share PDF to export via the share sheet, or Print. Tap Edit to rotate, reorder or delete pages; tap the title to rename.
+- The Photos button imports existing images from the photo library into a document (photo access is requested on first use).
+- Settings (icon at the top right of the library): paper size A4/Letter, PDF quality, optional Face ID / passcode lock, language.
+- All documents are stored only on the device.
+
+4. EXTERNAL SERVICES
+None. The app works fully offline. It makes no network requests and contains no third-party SDKs (no analytics, advertising, authentication, payment, cloud or AI services). There is no account, no sign-in and no in-app purchase; the app is a one-time paid download.
+
+5. REGIONAL DIFFERENCES
+None. The app functions identically in all regions. The interface is localized into 14 languages and follows the device language automatically (it can also be changed inside the app).
+
+6. REGULATED INDUSTRY / THIRD-PARTY MATERIAL
+Not applicable. The app does not operate in a regulated industry and contains no protected third-party material. All graphics, icons and sounds were created specifically for this app.

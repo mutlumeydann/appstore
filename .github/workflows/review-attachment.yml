@@ -1,0 +1,24 @@
+name: Review attachment + notes
+on:
+  workflow_dispatch:
+    inputs:
+      app_id: { description: "App Store Connect app ID", required: true }
+      file: { description: "Path of the video in the branch (e.g. review-videos/piti.mp4)", required: false, default: "" }
+      notes: { description: "Path of notes txt (e.g. review-notes/piti.txt)", required: false, default: "" }
+      ref: { description: "Branch holding the files", required: false, default: "review-videos" }
+jobs:
+  up:
+    runs-on: ubuntu-latest
+    env:
+      ASC_KEY_ID: ${{ secrets.ASC_KEY_ID }}
+      ASC_ISSUER_ID: ${{ secrets.ASC_ISSUER_ID }}
+      ASC_PRIVATE_KEY: ${{ secrets.ASC_PRIVATE_KEY }}
+      ASC_APP_ID: ${{ inputs.app_id }}
+      FILE: ${{ inputs.file }}
+      NOTES_FILE: ${{ inputs.notes }}
+    steps:
+      - uses: actions/checkout@v4
+        with: { ref: "${{ inputs.ref }}", lfs: false }
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - run: node scripts/review-attachment.mjs

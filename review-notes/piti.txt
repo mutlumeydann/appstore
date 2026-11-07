@@ -1,0 +1,23 @@
+App: Piti Piti: Finger Chooser
+
+1. SCREEN RECORDING
+A screen recording captured on a physical iPhone running the latest iOS is attached to this submission (App Review Information > Attachment). It starts from launching the app on the Home Screen and shows the typical user flow. The app has no account registration/login, no user-generated content and no paid content inside the app.
+
+2. PURPOSE AND TARGET AUDIENCE
+Piti Piti is a "finger chooser" for groups of friends, families and classrooms. When people need to decide fairly and quickly who goes first, who pays, who does a chore or how to split into teams, everyone puts one finger on the screen and the app chooses randomly with a spinning-light animation. It replaces arguments, coin flips and drawing straws with an instant, visibly fair result. Target audience: anyone in a group setting, all ages (rated 4+).
+
+3. HOW TO ACCESS THE MAIN FEATURES
+- Launch the app. The home screen is ready immediately; no setup or permissions are required.
+- Choose a mode with the buttons at the bottom: 1 WINNER (first out), 1 WINNER (last left), 2 TEAMS, or ORDER.
+- Two or more people each place one finger on the screen and hold still. After about 2 seconds the lights spin, slow down and stop on the chosen finger(s), with sound and vibration.
+- Lift all fingers to start a new round. Sound can be turned off from the speaker icon.
+- To test alone, simply place two or more of your own fingers on the screen.
+
+4. EXTERNAL SERVICES
+None. The app works fully offline. It makes no network requests and contains no third-party SDKs (no analytics, advertising, authentication, payment, cloud or AI services). There is no account, no sign-in and no in-app purchase; the app is a one-time paid download.
+
+5. REGIONAL DIFFERENCES
+None. The app functions identically in all regions. The interface is localized into 14 languages and follows the device language automatically (it can also be changed inside the app).
+
+6. REGULATED INDUSTRY / THIRD-PARTY MATERIAL
+Not applicable. The app does not operate in a regulated industry and contains no protected third-party material. All graphics, icons and sounds were created specifically for this app.

@@ -1,0 +1,23 @@
+App: Tesbih: Bead Counter
+
+1. SCREEN RECORDING
+A screen recording captured on a physical iPhone running the latest iOS is attached to this submission (App Review Information > Attachment). It starts from launching the app on the Home Screen and shows the typical user flow. The app has no account registration/login, no user-generated content and no paid content inside the app.
+
+2. PURPOSE AND TARGET AUDIENCE
+Tesbih is a digital prayer-bead counter (tasbih / misbaha / rosary / mala). People who recite dhikr, prayers, mantras or any repeated count use it to keep track without losing count, with realistic beads, a wooden click sound and haptic feedback so they can count without looking at the screen. It also keeps the round count and the day's total. Target audience: people who pray or meditate with beads, and anyone who needs a simple tally counter, all ages (rated 4+).
+
+3. HOW TO ACCESS THE MAIN FEATURES
+- Launch the app. The bead string is shown immediately; no setup or permissions are required.
+- Tap anywhere or swipe down to count one bead (click sound + light vibration).
+- Choose the round length at the bottom: 33, 99, 59, 108 or unlimited. At the end of a round there is a stronger vibration and a chime, and the round counter increases.
+- Change the bead color/material with the swatches at the bottom (the last swatch opens a full color picker).
+- RESET at the top lets you reset the current counter only, or the counter and today's total.
+
+4. EXTERNAL SERVICES
+None. The app works fully offline. It makes no network requests and contains no third-party SDKs (no analytics, advertising, authentication, payment, cloud or AI services). There is no account, no sign-in and no in-app purchase; the app is a one-time paid download.
+
+5. REGIONAL DIFFERENCES
+None. The app functions identically in all regions. The interface is localized into 14 languages and follows the device language automatically (it can also be changed inside the app).
+
+6. REGULATED INDUSTRY / THIRD-PARTY MATERIAL
+Not applicable. The app does not operate in a regulated industry and contains no protected third-party material. All graphics, icons and sounds were created specifically for this app.

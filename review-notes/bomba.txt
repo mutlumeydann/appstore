@@ -1,0 +1,22 @@
+App: Bomba: Hot Potato Party Game
+
+1. SCREEN RECORDING
+A screen recording captured on a physical iPhone running the latest iOS is attached to this submission (App Review Information > Attachment). It starts from launching the app on the Home Screen and shows the typical user flow. The app has no account registration/login, no user-generated content and no paid content inside the app.
+
+2. PURPOSE AND TARGET AUDIENCE
+Bomba is an offline "hot potato" party game for 2 to 20 people sharing one phone. A category appears (for example "A fruit"), each player says a matching word and passes the phone; the ticking speeds up and after a random, hidden time the bomb explodes, and whoever holds the phone loses the round. It gives groups an easy, screen-light game for parties, family nights, road trips and classrooms with no setup. Target audience: friends, families and teachers, all ages (rated 4+). The "bomb" is a cartoon party prop; there is no violence.
+
+3. HOW TO ACCESS THE MAIN FEATURES
+- Launch the app. On the menu, choose the fuse length (short, medium or long) and whether categories are shown (on/off).
+- Tap the light button. A category appears; say a matching word and hand the phone to the next player.
+- The ticking gets faster and the screen glows red. After a random time (about 8-60 seconds depending on the fuse) the bomb explodes with sound and vibration, and the result screen appears.
+- Tap "Again" for another round or "Menu" to change settings.
+
+4. EXTERNAL SERVICES
+None. The app works fully offline. It makes no network requests and contains no third-party SDKs (no analytics, advertising, authentication, payment, cloud or AI services). There is no account, no sign-in and no in-app purchase; the app is a one-time paid download.
+
+5. REGIONAL DIFFERENCES
+None. The app functions identically in all regions. The interface is localized into 14 languages and follows the device language automatically (it can also be changed inside the app).
+
+6. REGULATED INDUSTRY / THIRD-PARTY MATERIAL
+Not applicable. The app does not operate in a regulated industry and contains no protected third-party material. All graphics, icons and sounds were created specifically for this app.
