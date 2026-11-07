@@ -1,0 +1,20 @@
+name: TestFlight internal access (account holder)
+on:
+  workflow_dispatch:
+    inputs:
+      app_ids:
+        description: "Comma-separated App Store Connect app IDs"
+        required: true
+jobs:
+  tf:
+    runs-on: ubuntu-latest
+    env:
+      ASC_KEY_ID: ${{ secrets.ASC_KEY_ID }}
+      ASC_ISSUER_ID: ${{ secrets.ASC_ISSUER_ID }}
+      ASC_PRIVATE_KEY: ${{ secrets.ASC_PRIVATE_KEY }}
+      APP_IDS: ${{ inputs.app_ids }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - run: node scripts/testflight.mjs
