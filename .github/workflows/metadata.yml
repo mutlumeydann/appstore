@@ -6,9 +6,9 @@ on:
         description: "App Store Connect Apple ID of the app (numbers)"
         required: true
       folder:
-        description: "App folder in this repo: tabela, piti, tesbih or refleks"
+        description: "App folder in this repo: tabela, piti, tesbih, refleks or bomba"
         required: true
-        default: "refleks"
+        default: "bomba"
 
 jobs:
   upload:
